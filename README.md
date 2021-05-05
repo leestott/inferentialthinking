@@ -1,6 +1,6 @@
 # MS Learn Foundations of DataScience
 
-This repository contains some labs to help you get started. These labs are designed to introduce you to some of the core concepts in DataScience, and the DataScience Python Library. For the Learning [Path Foundation of Data Science](https://docs.microsoft.com/learn/paths/foundations-data-science)
+This repository contains some labs to help you get started. These labs are designed to introduce you to some of the core concepts in DataScience, and the DataScience Python Library. For the Learning [Path Foundation of Data Science](https://docs.microsoft.com/learn/paths/foundations-data-science?WT.mc_id=academic-0000-leestott)
 
 The labs are provided as notebooks that contain explanations of key DataScience principals and code.
 
@@ -10,9 +10,9 @@ The labs are provided as notebooks that contain explanations of key DataScience 
 
 To complete the labs, you'll need the following:
 
-- A Microsoft Azure subscription. If you don't already have one, you can sign up for a free trial at <a href ='https://azure.microsoft.com' target='_blank'>https://azure.microsoft.com</a> or a Student Subscription at <a href ='https://aks.ms/azureforstudents' target='_blank'>https://aka.ms/azureforstudents</a>.
+- A Microsoft Azure subscription. If you don't already have one, you can sign up for a free trial at <a href ='https://azure.microsoft.com/?WT.mc_id=academic-0000-leestott' target='_blank'>https://azure.microsoft.com/?WT.mc_id=academic-0000-leestott</a> or a Student Subscription at <a href ='https://aks.ms/azureforstudents' target='_blank'>https://aka.ms/azureforstudents</a>.
 - A Visual Studio Online environment. This provides a hosted instance of Visual Studio Code, in which you'll be able to run the notebooks for the lab exercises. To set up this environment:
-    1. Browse to <a href ='https://online.visualstudio.com' target='_blank'>https://online.visualstudio.com</a>
+    1. Browse to <a href ='https://online.visualstudio.com/?WT.mc_id=academic-0000-leestott' target='_blank'>https://online.visualstudio.com/?WT.mc_id=academic-0000-leestott</a>
     2. Click **Get Started**.
     3. Sign in using the Microsoft account associated with your Azure subscription.
     4. Click **Create environment**. If you don't already have a Visual Studio Online plan, create one. This is used to track resource utlization by your Visual Studio Online environments. Then create an environment with the following settings:
